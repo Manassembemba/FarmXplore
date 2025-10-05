@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE GranuleMetaDataFile SYSTEM "http://ecsinfo.gsfc.nasa.gov/ECSInfo/ecsmetadata/dtds/DPL/ECS/ScienceGranuleMetadata.dtd">
+<GranuleMetaDataFile>
+    <DTDVersion>1.0</DTDVersion>
+    <DataCenterId>NSIDC</DataCenterId>
+    <GranuleURMetaData>
+        <GranuleUR>SC:SV12CSMA.001:308806564</GranuleUR>
+        <DbID>308806564</DbID>
+        <InsertTime>2024-08-21 17:04:52.893</InsertTime>
+        <LastUpdate>2024-08-21 17:04:52.893</LastUpdate>
+        <CollectionMetaData>
+            <ShortName>SV12CSMA</ShortName>
+            <VersionID>001</VersionID>
+        </CollectionMetaData>
+        <DataFiles>
+            <DataFileContainer>
+                <DistributedFileName>SV12CSMA_Field_Sites_ver4_coords</DistributedFileName>
+                <FileSize>29497</FileSize>
+                <ChecksumType>MD5</ChecksumType>
+                <Checksum>b691d14d30337c49fcb6dbedd56ad985</Checksum>
+                <ChecksumOrigin>DataProvider</ChecksumOrigin>
+            </DataFileContainer>
+        </DataFiles>
+        <ECSDataGranule>
+            <SizeMBECSDataGranule>0.0281305</SizeMBECSDataGranule>
+            <LocalGranuleID>SV12CSMA_Field_Sites_ver4_coords</LocalGranuleID>
+            <ProductionDateTime>2020-02-11 13:12:04.000</ProductionDateTime>
+            <LocalVersionID>001</LocalVersionID>
+        </ECSDataGranule>
+        <RangeDateTime>
+            <RangeEndingTime>23:59:59.000000</RangeEndingTime>
+            <RangeEndingDate>2012-07-19</RangeEndingDate>
+            <RangeBeginningTime>00:00:00.000000</RangeBeginningTime>
+            <RangeBeginningDate>2012-06-07</RangeBeginningDate>
+        </RangeDateTime>
+        <SpatialDomainContainer>
+            <HorizontalSpatialDomainContainer>
+                <BoundingRectangle>
+                    <WestBoundingCoordinate>-98.51</WestBoundingCoordinate>
+                    <NorthBoundingCoordinate>49.96</NorthBoundingCoordinate>
+                    <EastBoundingCoordinate>-97.85</EastBoundingCoordinate>
+                    <SouthBoundingCoordinate>49.44</SouthBoundingCoordinate>
+                </BoundingRectangle>
+            </HorizontalSpatialDomainContainer>
+        </SpatialDomainContainer>
+        <PSAs>
+            <PSA>
+                <PSAName>SIPSMetGenVersion</PSAName>
+                <PSAValue>2.5</PSAValue>
+            </PSA>
+        </PSAs>
+    </GranuleURMetaData>
+</GranuleMetaDataFile>
+

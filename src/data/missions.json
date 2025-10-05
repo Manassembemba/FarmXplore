@@ -1,0 +1,16 @@
+
+[
+  {
+    "id": "chapter1-drought",
+    "level": 1,
+    "title_fr": "La sécheresse arrive 🌞",
+    "title_en": "The Drought is Coming 🌞",
+    "context_fr": "Vous êtes aux commandes d'une ferme. Soudain, la pluie cesse de tomber et la terre commence à se craqueler sous un soleil de plomb.",
+    "context_en": "You are in charge of a farm. Suddenly, the rain stops falling and the ground begins to crack under a blazing sun.",
+    "mission_fr": "Votre mission : choisir les bonnes pratiques pour sauver vos cultures. Commencez par installer un système d'irrigation goutte-à-goutte.",
+    "mission_en": "Your mission: choose the right practices to save your crops. Start by installing a drip irrigation system.",
+    "feedback_fr": "Excellent choix ! L'irrigation goutte-à-goutte est une première étape cruciale. La ferme commence à reverdir.",
+    "feedback_en": "Excellent choice! Drip irrigation is a crucial first step. The farm is starting to turn green again.",
+    "quizId": "quiz-drought"
+  }
+]

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE GranuleMetaDataFile SYSTEM "http://ecsinfo.gsfc.nasa.gov/ECSInfo/ecsmetadata/dtds/DPL/ECS/ScienceGranuleMetadata.dtd">
+<GranuleMetaDataFile>
+    <DTDVersion>1.0</DTDVersion>
+    <DataCenterId>NSIDC</DataCenterId>
+    <GranuleURMetaData>
+        <GranuleUR>SC:SV12CSMA.001:51021594</GranuleUR>
+        <DbID>51021594</DbID>
+        <InsertTime>2014-07-23 14:54:36.442</InsertTime>
+        <LastUpdate>2014-07-23 14:54:36.442</LastUpdate>
+        <CollectionMetaData>
+            <ShortName>SV12CSMA</ShortName>
+            <VersionID>001</VersionID>
+        </CollectionMetaData>
+        <DataFiles>
+            <DataFileContainer>
+                <DistributedFileName>SV12CSMA_Soil_Vol_Moisture_ver4.txt</DistributedFileName>
+                <FileSize>28794</FileSize>
+                <ChecksumType>MD5</ChecksumType>
+                <Checksum>3d9c9b38a8170fa048938b606548a866</Checksum>
+                <ChecksumOrigin>DPLIngst</ChecksumOrigin>
+            </DataFileContainer>
+        </DataFiles>
+        <ECSDataGranule>
+            <SizeMBECSDataGranule>0.0274601</SizeMBECSDataGranule>
+            <LocalGranuleID>SV12CSMA_Soil_Vol_Moisture_ver4.txt</LocalGranuleID>
+            <ProductionDateTime>2014-07-23 10:04:33</ProductionDateTime>
+        </ECSDataGranule>
+        <RangeDateTime>
+            <RangeEndingTime>23:59:58.000000</RangeEndingTime>
+            <RangeEndingDate>2012-07-19</RangeEndingDate>
+            <RangeBeginningTime>00:01:00.000000</RangeBeginningTime>
+            <RangeBeginningDate>2012-06-07</RangeBeginningDate>
+        </RangeDateTime>
+        <SpatialDomainContainer>
+            <HorizontalSpatialDomainContainer>
+                <BoundingRectangle>
+                    <WestBoundingCoordinate>-98.51</WestBoundingCoordinate>
+                    <NorthBoundingCoordinate>49.96</NorthBoundingCoordinate>
+                    <EastBoundingCoordinate>-97.85</EastBoundingCoordinate>
+                    <SouthBoundingCoordinate>49.44</SouthBoundingCoordinate>
+                </BoundingRectangle>
+            </HorizontalSpatialDomainContainer>
+        </SpatialDomainContainer>
+    </GranuleURMetaData>
+</GranuleMetaDataFile>

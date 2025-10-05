@@ -1,0 +1,60 @@
+
+{
+  "quiz-drought": [
+    {
+      "id": "q1",
+      "question_fr": "Quelle est la meilleure méthode d'irrigation pour économiser l'eau ?",
+      "question_en": "What is the best irrigation method to save water?",
+      "options_fr": ["Arrosage par inondation", "Irrigation goutte-à-goutte", "Arrosage par aspersion", "Arroser en plein après-midi"],
+      "options_en": ["Flood irrigation", "Drip irrigation", "Sprinkler irrigation", "Watering in the middle of the afternoon"],
+      "correctAnswer_fr": "Irrigation goutte-à-goutte",
+      "correctAnswer_en": "Drip irrigation",
+      "explanation_fr": "L'irrigation goutte-à-goutte achemine l'eau directement aux racines, minimisant l'évaporation.",
+      "explanation_en": "Drip irrigation delivers water directly to the roots, minimizing evaporation."
+    },
+    {
+      "id": "q2",
+      "question_fr": "Quel type de culture est le plus résistant à la sécheresse ?",
+      "question_en": "Which type of crop is most resistant to drought?",
+      "options_fr": ["Le maïs", "Le riz", "Le sorgho", "Le blé"],
+      "options_en": ["Corn", "Rice", "Sorghum", "Wheat"],
+      "correctAnswer_fr": "Le sorgho",
+      "correctAnswer_en": "Sorghum",
+      "explanation_fr": "Le sorgho est une céréale originaire d'Afrique, très bien adaptée aux climats chauds et secs.",
+      "explanation_en": "Sorghum is a cereal native to Africa, very well adapted to hot and dry climates."
+    },
+    {
+      "id": "q3",
+      "question_fr": "Qu'est-ce que le paillage (mulching) ?",
+      "question_en": "What is mulching?",
+      "options_fr": ["Une technique de labour profond", "Couvrir le sol pour garder l'humidité", "Planter des fleurs entre les légumes", "Utiliser des pesticides naturels"],
+      "options_en": ["A deep plowing technique", "Covering the soil to retain moisture", "Planting flowers between vegetables", "Using natural pesticides"],
+      "correctAnswer_fr": "Couvrir le sol pour garder l'humidité",
+      "correctAnswer_en": "Covering the soil to retain moisture",
+      "explanation_fr": "Le paillage protège le sol du soleil, réduit l'évaporation et limite la croissance des mauvaises herbes.",
+      "explanation_en": "Mulching protects the soil from the sun, reduces evaporation, and limits weed growth."
+    },
+    {
+      "id": "q4",
+      "question_fr": "Quand est le meilleur moment de la journée pour arroser ?",
+      "question_en": "When is the best time of day to water?",
+      "options_fr": ["À midi, quand le soleil est au plus haut", "Le soir ou tôt le matin", "N'importe quand", "Seulement quand les plantes ont l'air tristes"],
+      "options_en": ["At noon, when the sun is highest", "In the evening or early morning", "Anytime", "Only when the plants look sad"],
+      "correctAnswer_fr": "Le soir ou tôt le matin",
+      "correctAnswer_en": "In the evening or early morning",
+      "explanation_fr": "Arroser pendant les heures les plus fraîches réduit les pertes d'eau par évaporation.",
+      "explanation_en": "Watering during the coolest hours reduces water loss from evaporation."
+    },
+    {
+      "id": "q5",
+      "question_fr": "Comment la rotation des cultures aide-t-elle à gérer la sécheresse ?",
+      "question_en": "How does crop rotation help manage drought?",
+      "options_fr": ["Elle n'a aucun effet", "Elle améliore la structure du sol et sa capacité à retenir l'eau", "Elle attire plus de pluie", "Elle change la couleur des plantes"],
+      "options_en": ["It has no effect", "It improves soil structure and its ability to retain water", "It attracts more rain", "It changes the color of the plants"],
+      "correctAnswer_fr": "Elle améliore la structure du sol et sa capacité à retenir l'eau",
+      "correctAnswer_en": "It improves soil structure and its ability to retain water",
+      "explanation_fr": "Alterner les cultures aide à maintenir un sol sain et riche en matière organique, qui retient mieux l'eau.",
+      "explanation_en": "Alternating crops helps maintain healthy, organic-rich soil that retains water better."
+    }
+  ]
+}
